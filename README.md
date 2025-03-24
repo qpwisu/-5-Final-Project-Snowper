@@ -57,9 +57,11 @@
 
 <div align="center">
 
-| **김도은(BE)** | **박준승(BE)** | **이수용(BE)** | **이유진(FE)** | **장한영(BE)** |
+| **김도은(BE)** | **박준승(BE)** | **이수용(BE)** | **이유진(FE)** | **장한영(PM)** |
 | :------: |  :------: | :------: | :------: | :------: |
 | [<img src="https://avatars.githubusercontent.com/u/143738200?v=4" height=150 width=150> <br/> @doeuni](https://github.com/doeuni) | [<img src="https://avatars.githubusercontent.com/u/125808024?v=4" height=150 width=150> <br/> @Pasak22](https://github.com/Pasak22) | [<img src="https://avatars.githubusercontent.com/u/69045133?v=4" height=150 width=150> <br/> @leesuyong4029](https://github.com/leesuyong4029) | [<img src="https://avatars.githubusercontent.com/u/98758209?v=4" height=150 width=150> <br/> @ZZZINU](https://github.com/ZZZINU) | [<img src="https://avatars.githubusercontent.com/u/28581494?v=4" height=150 width=150> <br/> @qpwisu](https://github.com/qpwisu) |
+
+<img width="1387" alt="Image" src="https://github.com/user-attachments/assets/442a94bd-ae77-4f3c-b660-c95458671840" />
 
 </div>
 <br> <br>
@@ -126,3 +128,15 @@
 
 
 
+## 🧑 주요기능 ##
+<img width="1386" alt="Image" src="https://github.com/user-attachments/assets/b6b9137a-1a63-44b1-af2e-d4536f41c9ab" />
+
+<img width="1099" alt="Image" src="https://github.com/user-attachments/assets/f32db550-85cb-43fb-baa2-7de30f8da34c" />
+
+<img width="1088" alt="Image" src="https://github.com/user-attachments/assets/f1ff31ec-9349-4486-b2f0-7334bd1e6a04" />
+
+<img width="1090" alt="Image" src="https://github.com/user-attachments/assets/450049b7-ec41-4f3c-9db9-9f4f38b08857" />
+
+<img width="1090" alt="Image" src="https://github.com/user-attachments/assets/a2da0e89-5935-4b6a-9d19-9e1dab4602c2" />
+
+<img width="1091" alt="Image" src="https://github.com/user-attachments/assets/3b65d5cc-eb8f-4485-9ac5-c857352e1857" />
